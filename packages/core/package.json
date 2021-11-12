@@ -1,6 +1,6 @@
 {
   "name": "@tkct/core",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "tkct core",
   "author": "thinkerception <thinkerception@gmail.com>",
   "homepage": "",
@@ -19,5 +19,8 @@
   "scripts": {
     "test": "echo \"Run testing from core\""
   },
-  "gitHead": "e4083de455a925778ac13b69126b4b1c96f28c77"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "0f3808a55283e9fb378681b7abcc1b70aed6b7cb"
 }
