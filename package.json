@@ -1,5 +1,5 @@
 {
-  "name": "tkct",
+  "name": "@tkct/tkct-cli",
   "version": "1.0.0",
   "description": "tkct",
   "main": "index.js",
