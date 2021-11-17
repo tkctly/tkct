@@ -19,9 +19,9 @@
         "test": "echo \"Run testing from core\""
     },
     "dependencies": {
-        "@tkct/get-npm-info": "file:../../utils/get-npm-info",
-        "@tkct/log": "file:../../utils/log",
-        "@tkct/utils": "file:../../utils/utils",
+        "@tkct/get-npm-info": "^1.0.6",
+        "@tkct/log": "^1.0.6",
+        "@tkct/utils": "^1.0.6",
         "colors": "^1.4.0",
         "dotenv": "^10.0.0",
         "import-local": "^3.0.3",
@@ -35,5 +35,5 @@
     "publishConfig": {
         "access": "public"
     },
-    "gitHead": "0f3808a55283e9fb378681b7abcc1b70aed6b7cb"
+    "gitHead": "eafd290bd5aa69beee29cbabd532b103bdd9cc93"
 }

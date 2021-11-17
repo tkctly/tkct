@@ -89,9 +89,7 @@ function checkNodeVersion() {
     const currentVersion = process.version;
     const lowestVersion = LOWEST_NODE_VERSION;
     if (!semver.gte(currentVersion, lowestVersion)) {
-        throw new Error(
-            colors.red(`tckt 需要安装v${lowestVersion}以上版本的 nodejs`)
-        );
+        throw new Error(colors.red(`tckt need v${lowestVersion}+ nodejs`));
     }
 }
 function checkPkgVersion() {
