@@ -1,6 +1,6 @@
 {
     "name": "@tkct/core",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "tkct core",
     "author": "thinkerception <thinkerception@gmail.com>",
     "homepage": "",
@@ -19,9 +19,9 @@
         "test": "echo \"Run testing from core\""
     },
     "dependencies": {
-        "@tkct/get-npm-info": "^1.0.6",
-        "@tkct/log": "^1.0.6",
-        "@tkct/utils": "^1.0.6",
+        "@tkct/get-npm-info": "^1.0.7",
+        "@tkct/log": "^1.0.7",
+        "@tkct/utils": "^1.0.7",
         "colors": "^1.4.0",
         "dotenv": "^10.0.0",
         "import-local": "^3.0.3",
