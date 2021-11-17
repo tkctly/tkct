@@ -1,0 +1,31 @@
+{
+    "name": "@tkct/get-npm-info",
+    "version": "1.0.5",
+    "description": "> TODO: description",
+    "author": "tkctly <thinkerception@gmail.com>",
+    "homepage": "https://github.com/tkctly/tkct#readme",
+    "license": "ISC",
+    "main": "lib/index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tkctly/tkct.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "bugs": {
+        "url": "https://github.com/tkctly/tkct/issues"
+    },
+    "dependencies": {
+        "axios": "^0.24.0",
+        "semver": "^7.3.5",
+        "url-join": "^4.0.1"
+    }
+}

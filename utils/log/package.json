@@ -1,0 +1,32 @@
+{
+    "name": "@tkct/log",
+    "version": "1.0.5",
+    "description": "> TODO: description",
+    "author": "tkctly <thinkerception@gmail.com>",
+    "homepage": "https://github.com/tkctly/tkct#readme",
+    "license": "ISC",
+    "main": "lib/index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tkctly/tkct.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "bugs": {
+        "url": "https://github.com/tkctly/tkct/issues"
+    },
+    "dependencies": {
+        "npmlog": "^5.0.1"
+    }
+}
