@@ -13,6 +13,9 @@
     "files": [
         "lib"
     ],
+    "publishConfig": {
+        "access": "public"
+    },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/tkctly/tkct.git"
@@ -28,5 +31,5 @@
         "semver": "^7.3.5",
         "url-join": "^4.0.1"
     },
-    "gitHead": "eafd290bd5aa69beee29cbabd532b103bdd9cc93"
+    "gitHead": "5f0ec088eecec83afc89bf9c12e6130fbd098f32"
 }
